@@ -1,0 +1,15 @@
+set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
+set bg=dark
+colorscheme pablo
+set nu
+set hlsearch
+set backspace=2
+set autoindent
+set ruler
+set showmode
+syntax on
+set tabstop=4
+set history=50
+set nolinebreak
+set backspace=indent,eol,start
+set t_Co=256
